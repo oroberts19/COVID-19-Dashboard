@@ -1,0 +1,10 @@
+name: covid-19-dashboard
+title:
+username:
+account: oroberts19
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2043498
+bundleId: 2961161
+url: https://oroberts19.shinyapps.io/covid-19-dashboard/
+when: 1585858371.2409
